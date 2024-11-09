@@ -4,3 +4,4 @@ Proyecto global python. Programacion
 ## participantes:
 - Manuel Rivas.
 - Alex Rodriguez.
+- Ignacio Bevilacqua.
